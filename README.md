@@ -7,8 +7,8 @@ python_raw_preprocessing.py is for data preprocessing
 TA_preprocessing.py is a module to ease the process of data preprocessing at python_raw_preprocessing.py  
 NeuralNetworkBuilding.py is for building the whole neural network architecture called ModAugnet  
 READ : https://www.sciencedirect.com/science/article/abs/pii/S0957417418304342
-
-# python_raw_preprocessing.py outputs two numpy files which consist of:
+  
+python_raw_preprocessing.py outputs two numpy files which consist of:
 1. BBCA.npy  
 2. hargaBBCA.npy  
 These numpy files is later act as inputs for NeuralNetworkBuilding.py
