@@ -1,5 +1,5 @@
 # My Undergraduate Thesis
-By : Misael Jordan Enrico
+By : Misael Jordan Enrico  
 This is my undergraduate thesis project.  
 The aim is to decide whether one has to buy, sell, or hold stock ownership given several information in the past.
 
