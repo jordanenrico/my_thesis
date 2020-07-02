@@ -1,7 +1,6 @@
 # my_thesis
-
-# This is my undergraduate thesis project.
-# The aim is to decide whether one has to buy, sell, or hold stock ownership given several information in the past.
+This is my undergraduate thesis project.
+The aim is to decide whether one has to buy, sell, or hold stock ownership given several information in the past.
 
 # There are 3 python files.
 # python_raw_preprocessing.py is for data preprocessing
