@@ -12,6 +12,6 @@ READ : https://www.sciencedirect.com/science/article/abs/pii/S0957417418304342
 python_raw_preprocessing.py outputs two numpy files which consist of:
 1. BBCA.npy  
 2. hargaBBCA.npy  
-These numpy files is later act as inputs for NeuralNetworkBuilding.py
+These numpy files are later act as inputs for NeuralNetworkBuilding.py
   
 NeuralNetworkBuilding.py trains the model and does analyses on the predicted result
